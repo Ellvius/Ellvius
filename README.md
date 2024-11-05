@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Lishin.</h1>
 <h3 align="center">An aspiring Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lishinvs&label=Profile%20views&color=0e75b6&style=flat" alt="lishinvs" /> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/lishinvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lishinvs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lishinvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lishinvs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Elviax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Elviax" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Ellvius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ellvius" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_lishin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lishin" height="30" width="40" /></a>
 </p>
 
@@ -36,4 +36,4 @@
 </picture>
 
 <h3 >LeetCode Stats:</h3>
-<p>&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Elviax?theme=dark&font=IBM%20Plex%20Serif&ext=heatmap" alt="LeetCode Stats" /></p>
+<p>&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Ellvius?theme=dark&font=IBM%20Plex%20Serif&ext=heatmap" alt="LeetCode Stats" /></p>
