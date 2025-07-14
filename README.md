@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lishinvs&label=Profile%20views&color=0e75b6&style=flat" alt="lishinvs" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **Snapspace: A dynamic environment provisioner**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Fastapi**
 
 - 📫 How to reach me **lishinvs6541@gmail.com**
 
