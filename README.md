@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Lishin.</h1>
-<h3 align="center">An aspiring Web Developer</h3>
+<h3 align="center">An aspiring Systems Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lishinvs&label=Profile%20views&color=0e75b6&style=flat" alt="lishinvs" /> </p>
